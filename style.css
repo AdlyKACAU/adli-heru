@@ -1,0 +1,20 @@
+.container{
+    position: relative;
+    display: inline-block;
+}
+
+.heru {
+    width: 100px;
+    height: auto;
+}
+
+.text{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    color:blacck;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
